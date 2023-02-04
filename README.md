@@ -1,7 +1,7 @@
 # Note Taker
 
 ## Description
-An Express.js based notes app that is able to take notesw and delete existing notes.
+An Express.js based notes app that is able to take notes and delete existing notes.
 
 ## Table of Contents
 N/A
